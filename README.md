@@ -12,8 +12,11 @@ además sirve como plataforma para el aprendizaje  y desarrollo de habilidades S
 El taller se divide en 4 secciones principales:
 
 1.- p5 - Programar es sencillo, si lo visualizas primero
+
 2.- Arduino - El funcionamiento interno de la tecnología actual
+
 3.- Internet - ¿Que pasa cuando escribes google.com en la barra de dirección?
+
 4.- expandeCanvas.js - Montaje del producto final
 
 

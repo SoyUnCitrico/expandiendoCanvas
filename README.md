@@ -1,4 +1,4 @@
-## expandiendoCanvas
+# expandiendoCanvas
 En este repositorio se encuentran todos los codigos desarrollados durante el taller Expandiendo el Canvas.
 
 Durante el desarrollo del taller se busca introducir a los participantes en los conceptos básicos de 
@@ -9,7 +9,7 @@ Como resultado, se aplican esos conocimientos en el desarrollo de una página we
 interactuar entre el0 mundo digital y el mundo real, expande nuestras posibilidades creativas y 
 además sirve como plataforma para el aprendizaje  y desarrollo de habilidades STEAM.
 
-# El taller se divide en 4 secciones principales:
+### El taller se divide en 4 secciones principales:
 
 1.- **p5** - Programar es sencillo, si lo visualizas primero
 

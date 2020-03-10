@@ -11,7 +11,7 @@ además sirve como plataforma para el aprendizaje  y desarrollo de habilidades S
 
 #### El taller se divide en 4 secciones principales:
 
-1.- **p5** - Programar es sencillo, si lo visualizas primero
+1.- **p5.js** - Programar es sencillo, si lo visualizas primero
 
 2.- **Arduino** - El funcionamiento interno de la tecnología actual
 

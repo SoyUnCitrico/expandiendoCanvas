@@ -9,13 +9,13 @@ Como resultado, se aplican esos conocimientos en el desarrollo de una página we
 interactuar entre el0 mundo digital y el mundo real, expande nuestras posibilidades creativas y 
 además sirve como plataforma para el aprendizaje  y desarrollo de habilidades STEAM.
 
-### El taller se divide en 4 secciones principales:
+#### El taller se divide en 4 secciones principales:
 
 1.- **p5** - Programar es sencillo, si lo visualizas primero
 
 2.- **Arduino** - El funcionamiento interno de la tecnología actual
 
-3.- **Internet** - ¿Que pasa cuando escribes google.com en la barra de dirección?
+3.- **Internet** - ¿Qué pasa cuando escribes google.com en la barra de dirección?
 
 4.- **expandeCanvas.js** - Montaje del producto final
 

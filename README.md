@@ -1,4 +1,4 @@
-# expandiendoCanvas
+# Material para el taller Expandiendo el Lienzo
 En este repositorio se encuentran todos los codigos desarrollados durante el taller Expandiendo el Canvas.
 
 Durante el desarrollo del taller se busca introducir a los participantes en los conceptos básicos de 
